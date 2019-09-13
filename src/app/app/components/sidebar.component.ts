@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
           `,
     styles: [``]
   
-  ]
+  
 })
 export class SidebarComponent implements OnInit {
 
